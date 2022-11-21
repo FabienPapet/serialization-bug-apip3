@@ -1,0 +1,7 @@
+App\Entity\Customer:
+    foo:
+        name: foo
+        telephone: null
+    bar:
+        name: bar
+        telephone: 0147200001
